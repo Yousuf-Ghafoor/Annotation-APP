@@ -1,0 +1,5 @@
+Pillow==11.0.0
+PyYAML==6.0.2
+PyYAML==6.0.2
+streamlit==1.39.0
+streamlit_drawable_canvas==0.9.3
