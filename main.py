@@ -250,8 +250,8 @@ if uploaded_files:
 
                     # Provide a download link for the ZIP file
                     st.download_button(
-                        label="Download Combined Dataset",
+                        label="Download Label Dataset",
                         data=combined_zip_buffer,
-                        file_name="combined_dataset.zip",
+                        file_name="Label_dataset.zip",
                         mime="application/zip"
                     )
